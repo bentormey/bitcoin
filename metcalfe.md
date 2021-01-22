@@ -86,6 +86,8 @@ Let's go away, read The Deficit Myth, and rewrite that in MMT terms:
 
 What part of that was dependent on "hard money"? Precisely nothing. That means the concept doesn't meaningfully capture the essential features of the underlying.
 
+It should be obvious that discounting can _never_ explain the time-dependent properties of money because discounting itself is an attempt to fix the lack of time-dependent dynamics in traditional economics. In other words, without understanding ergodicity you can't hope to properly model this concept.
+
 ##### Structural defects
 
 ##### Putting it all together
