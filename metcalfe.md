@@ -72,10 +72,36 @@ Therefore any valuation model has to look at _both_ the underlying protocol and 
 ##### Energy as currency
 At bottom, everything is about energy consumption. Dr. Chris Dark podcast...
 
-##### Not Austrian economics
+##### Hard money, soft money
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The concept of "hardness" of money continues to baffle me.
 
+Here's a great example"
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote>
+
+Let's go away, read The Deficit Myth, and rewrite that in MMT terms:
+
+> My theory of why **debt driven infrastructure spending** lowers time preference in a tweet: The **greater the debt driven infrastructure spending**, the more likely it is to **create** value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.
+
+What part of that was dependent on "hard money"? Precisely nothing. That means the concept doesn't meaningfully capture the essential features of the underlying.
+
+##### Structural defects
 
 ##### Putting it all together
 TBC
+
+Fundamental:
+Network structure
+Computational complexity
+Energy
+
+Layers:
+Markets
+Exchanges
+...
+
+Accessibility:
+On/offramps
+Legislation
+Adoption
