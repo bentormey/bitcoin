@@ -75,7 +75,7 @@ It can't _just_ be computational effort, because distributed computing networks 
 
 What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too. You can't use Signal to maintain a consistent, distributed ledger.
 
-##### Energy as currency
+##### Everything is energy
 
 _Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast..._
 
@@ -90,6 +90,8 @@ Imagine you go away, read The Deficit Myth, and have a Damascus road moment. Let
 > My theory of why **debt driven infrastructure spending** lowers time preference in a tweet: The **greater the debt driven infrastructure spending**, the more likely it is to **create** value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.
 
 What part of that was dependent on "hard money"? Precisely nothing. That means the concept doesn't meaningfully capture the essential features of the underlying.
+
+You could also plant date trees, wait 20 years, and have successfully transmitted value to the future.
 
 It should be obvious that discounting can _never_ explain the time-dependent properties of money because discounting itself is an attempt to fix the lack of time-dependent dynamics in traditional economics. In other words, without understanding ergodicity you can't hope to properly model this concept.
 
@@ -116,6 +118,8 @@ None of those things are unique to Bitcoin, however, so any criticism could equa
 Putting all of that aside, the practical point of how you deal with lost Bitcoin is an important one that needs to be addressed _if_ you want Bitcoin to be used as money. I'm not convinced that Bitcoin _needs_ to be money to have value, however.
 
 And if Bitcoin is money, is it really obeying Gresham's law? The only way to test that would be if you could buy your groceries with Bitcoin. Then it would be clear what type of money people prefer, given the choice. But for now it is completely unfalsifiable and therefore worthless.
+
+You can't, for example, claim that dollars are better than casino chips because everyone chooses to redeem them for dollars on the way out.
 
 What's the value of Bitcoin then?
 
