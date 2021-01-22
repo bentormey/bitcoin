@@ -131,7 +131,11 @@ There is no guarantee that a company which exists today will exist 10 years from
 
 A discounted cash flow is an infinite series, but does anyone think Apple will exist for an infinite amount of time?
 
-Given that almost everyone disagrees on the valuation model - or that it even has value - is it any surprise that it's volatile?
+It's an abstraction that allows you to put a definite number to it, which you can use as a tool for comparison.
+
+Nobody has come up with a good abstraction for Bitcoin yet.
+
+Given that almost everyone disagrees on the valuation model for Bitcoin - or that it even has value - is it any surprise that it's volatile?
 
 ##### Putting it all together
 TBC
