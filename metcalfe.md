@@ -77,7 +77,13 @@ What's more, it can't _just_ be security and connectedness that make Bitcoin wor
 
 ##### Everything is energy
 
-_Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast reference..._
+Energy is difficult to store, when you generate it you need to _do_ something with it, like turning a light on, charging your Tesla, or powering a Bitcoin node.
+
+In the same way that gold represents energy expended in the form of discovery, extraction, and processing, Bitcoin represents energy converted to hashes.
+
+TBC
+
+_Dr. Chris Dark podcast reference..._
 
 ##### Money: the good, the bad, and the "hard"
 
@@ -138,8 +144,6 @@ There is no guarantee that a company which exists today will exist 10 years from
 A discounted cash flow is an infinite series, but does anyone think Apple will exist for an infinite amount of time?
 
 It's an abstraction that allows you to put a definite number to it, which you can use as a tool for comparison.
-
-Nobody has come up with a good abstraction for Bitcoin yet.
 
 Given that almost everyone disagrees on the valuation model for Bitcoin - or that it even has value - is it any surprise that it's volatile?
 
