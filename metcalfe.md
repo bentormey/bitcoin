@@ -77,7 +77,7 @@ What's more, it can't _just_ be security and connectedness that make Bitcoin wor
 
 _Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast..._
 
-##### Money and "hard money"
+##### Money: the good, the bad, and the "hard"
 
 The concept of "hardness" of money continues to baffle me. Here's a great example:
 
@@ -93,8 +93,6 @@ It should be obvious that discounting can _never_ explain the time-dependent pro
 
 But before you can talk about how hard (or soft?) money is, you need to agree on what money is first.
 
-##### Handling debt
-
 Mike Green very eloquently describes money as _"that which extinguishes debt."_
 
 With that definition in mind, a structural defect is therefore the inability to create more Bitcoin when it is lost.
@@ -105,23 +103,35 @@ Of course, historically we have lost plenty of gold too, indeed people still com
 
 But the difference is that Bitcoin has a fixed algorithmic schedule and gold is ad hoc, we know that it has to run out eventually but we don't know precisely when.
 
-What matters here is individual debt, because government-issued debt is not 
-
 I think this criticism is one of the most perceptive, because it identifies why the "hard money" idealists like Bitcoin:
 
 - The emphasis on personal responsibility and prudence over forgiveness.
 - Scarcity and permanence that allow those who have "earned" wealth to keep it forever.
-- It fulfils the libertarian fantasy of opting out of a bloated, corrupt government system.
+- It realises the libertarian ideal of opting out of a bloated, corrupt government system.
 
 None of those things are unique to Bitcoin, however, so any criticism could equally be applied to land. Land shares many of the same features: early adopters locked in incredible gains and there is highly concentrated ownership. That's why comparisons have been made between Bitcoin and feudalism. But it's hard to find an asset class that doesn't have those properties in some degree.
 
-Putting all of that aside, the practical point of how you deal with lost Bitcoin is an important one.
+Putting all of that aside, the practical point of how you deal with lost Bitcoin is an important one that needs to be addressed _if_ you want Bitcoin to be used as money. I'm not convinced that Bitcoin _needs_ to be money to have value, however.
 
-_Write here on debt, value, relating back to MMT - personal debt is the key etc._
+And if Bitcoin is money, is it really obeying Gresham's law? The only way to test that would be if you could buy your groceries with Bitcoin. Then it would be clear what type of money people prefer, given the choice. But for now it is completely unfalsifiable and therefore worthless.
+
+What's the value of Bitcoin then?
 
 ##### Intrinsic value
 
-_Write here on meaninglessness of instrinsic value philosophically. Volatility and the lack of concensus on valuation, different things to different people, etc._
+I often see people claim that Bitcoin has no "intrinsic value." Of course, there is a vast body of philosophical work on this notion which those people have never and will never read. But you should never let that get in the way of a high-engagement Twitter thread.
+
+In very simple terms, intrinsic value means the value of Bitcoin that doesn't relate to something else. This is entirely separate from the extrinsic value or the final value - the value of Bitcoin for it's own sake. There's probably no way we can ever know or agree on the intrinsic value of Bitcoin, or indeed anything at all, so it's a rather silly thing to discuss.
+
+The value of Bitcoin for it's own sake could be something like the intellectual value of the Satoshi whitepaper and the innovation it sparked.
+
+Of course there is no underlying asset or cashflow, like a company. But what is a company? It's a legal entity. It has accounts with numbers that tell you about the asset it holds, the liabilities, the cashflow, and so on. All you have as a shareholder is a claim on some of that cashflow.
+
+There is no guarantee that a company which exists today will exist 10 years from now, or that any of the employees will be the same, and the cashflow you have a claim on could increase or decrease.
+
+A discounted cash flow is an infinite series, but does anyone think Apple will exist for an infinite amount of time?
+
+Given that almost everyone disagrees on the valuation model - or that it even has value - is it any surprise that it's volatile?
 
 ##### Putting it all together
 TBC
