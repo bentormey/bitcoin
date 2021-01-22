@@ -65,18 +65,20 @@ We know that a minority of human beings will always try to cheat and steal, all 
 
 Mathematics is the best tool for the job, because we _know_ that computational complexity is universal. If quantum computers become a reality, we have lattice cryptography and bigger keys. But fundamentally at no point are we relying on trust or obscurity to protect us.
 
+_(As an aside, structurally the argument that quantum computing invalidates Bitcoin is essentially the same as the one that says gold mining on asteroids invalidates gold. Both assume that future technologies will make a difficult problem trivial.)_
+
 The Bitcoin protocol also incentivises good behaviour by issuing rewards for securing the network. This encourages the network to grow in a way that maintains security and makes attacks more costly.
 
 Therefore any valuation model has to look at _both_ the underlying protocol and the network, it can't look at them in isolation.
 
+What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too.
+
 ##### Energy as currency
 At bottom, everything is about energy consumption. Dr. Chris Dark podcast...
 
-##### Hard money, soft money
+##### Money and "hard money"
 
-The concept of "hardness" of money continues to baffle me.
-
-Here's a great example"
+The concept of "hardness" of money continues to baffle me. Here's a great example"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote>
 
@@ -87,6 +89,21 @@ Let's go away, read The Deficit Myth, and rewrite that in MMT terms:
 What part of that was dependent on "hard money"? Precisely nothing. That means the concept doesn't meaningfully capture the essential features of the underlying.
 
 It should be obvious that discounting can _never_ explain the time-dependent properties of money because discounting itself is an attempt to fix the lack of time-dependent dynamics in traditional economics. In other words, without understanding ergodicity you can't hope to properly model this concept.
+
+But before we can talk about how hard (or soft?) money is, we need to agree on what money is first.
+
+Mike Green very eloquently describes money as "that which extinguishes debt."
+
+Briefly touch on losing Bitcoin
+
+difference is knwong schedule in advance
+
+Losing bitcoin
+
+##### Intrinsic value
+
+Meaninglessness of instrinsic value philosophically
+
 
 ##### Structural defects
 
