@@ -1,10 +1,9 @@
-
-
 # Remarks On Metcalfe's Law
-
 __Metcalfe's law__ says the value of a network grows proportionally to the square of the number of connected users.
 
 In other words, it claims that the value is proportional to the number of edges in the network.
+
+##### A quick intro to graphs
 
 Properties of networks (or _graphs_) have been studied since Euler solved the Konigsberg bridge problem in 1736.
 
@@ -16,6 +15,7 @@ Let G be a random graph with N vertices, connecting edges between any two vertic
 
 Using _Big O_ notation we write that as O(N^2) which means that asymptotically it behaves like N^2, because as N goes to infinity the N^2 term dominates and we don't really care about the factor of p.
 
+##### Back to valuation
 Returning to Metcalfe's law, we see that it's really just saying that the value of the network is predicated on the number of edges, or the _connections_ between users.
 
 But there are other network valuation models, notably:
@@ -23,7 +23,7 @@ But there are other network valuation models, notably:
 - __Sarnoff's law__, which values the network proportionally to the number of users (the number of vertices in the graph) and therefore O(N).
 - __Reed's law__, which proposes that the value of the network is proportional to the number of possible "subgroups" of users, which is O(2^N).
 
-They're all getting the same thing, which is that the value of the network is something to do with the degree of connectedness.
+They're all getting the same thing, which is that the value of the network is something to do with the connectedness.
 
 The degree of a vertex is the number of edges joining that vertex to other vertices in the graph. That's one way to think about connectedness.
 
@@ -33,6 +33,15 @@ Reed's law says that the number of possible subgraphs is what matters, which cou
 
 But social networks typically exhibit clustering effects. Clusters are subgraphs with dense internal connectedness and sparse external connectedness.
 
-Mst people tend to have dense connections within their social circle and sparser connections outside of it. A minority of people are very densely connected (think influencers).
+Most people tend to have dense connections within their social circle and sparser connections outside of it. A minority of people are very densely connected (think influencers).
 
-What that implies is that 
+That means Reed's law radically overestimates the number of clusters we would see in a real network.
+
+##### Beyond connectivity
+Putting aside the problems with the valuation models, the concern with using Metcalfe's law on Bitcoin is that it makes no reference to the properties of the underlying protocol.
+
+In other words, if the value is related to the number of edges, how is the Bitcoin network fundamentally different to the US postal service network, or the Herbalife distribution network?
+
+Let's look at the essential features of the Bitcoin protocol:
+
+- It's decentralised, 
