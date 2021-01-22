@@ -77,7 +77,7 @@ What's more, it can't _just_ be security and connectedness that make Bitcoin wor
 
 ##### Everything is energy
 
-_Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast..._
+_Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast reference..._
 
 ##### Money: the good, the bad, and the "hard"
 
