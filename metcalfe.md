@@ -119,7 +119,7 @@ Putting all of that aside, the practical point of how you deal with lost Bitcoin
 
 And if Bitcoin is money, is it really obeying Gresham's law? The only way to test that would be if you could buy your groceries with Bitcoin. Then it would be clear what type of money people prefer, given the choice. But for now it is completely unfalsifiable and therefore worthless.
 
-You can't, for example, claim that dollars are better than casino chips because everyone chooses to redeem them for dollars on the way out.
+You can't, for example, claim that dollars are better than casino chips because nobody accepts casino chips outside of the casino.
 
 What's the value of Bitcoin then?
 
