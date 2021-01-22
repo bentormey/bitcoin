@@ -63,4 +63,14 @@ But the point is that regardless of how you try to attack, it will cost you. Eit
 
 We know that a minority of human beings will always try to cheat and steal, all we can do is make the behaviour costly.
 
-Mathematics is the best tool for the job, because we _know_ the computational complexity of 
+Mathematics is the best tool for the job, because we _know_ that computational complexity is universal. If quantum computers become a reality, we have lattice cryptography and bigger keys. But fundamentally at no point are we relying on trust or obscurity to protect us.
+
+The Bitcoin protocol also incentivises good behaviour by issuing rewards for securing the network. This encourages the network to grow in a way that maintains security and makes attacks more costly.
+
+Therefore any valuation model has to look at _both_ the underlying protocol and the network, it can't look at them in isolation.
+
+##### Energy as currency
+At bottom, everything is about energy consumption. Dr. Chris Dark podcast...
+
+##### Putting it all together
+TBC
