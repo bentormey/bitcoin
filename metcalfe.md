@@ -13,10 +13,10 @@ The London tube map is a graph. Your family tree is a graph. And a social networ
 
 Let G be a random graph with N vertices, connecting edges between any two vertices with probability p. Then the expected number of edges in G is p N(N-1)/2, because the maximally connected graph (the _complete_ graph) on N vertices has N(N-1)/2 edges.
 
-Using _Big O_ notation we write that as O(N^2) which means that asymptotically it behaves like N^2, because as N goes to infinity the N^2 term dominates and we don't really care about the factor of p.
+Using _Big O_ notation write that as O(N^2) which means that asymptotically it behaves like N^2, because as N goes to infinity the N^2 term dominates and we don't really care about the factor of p.
 
 ##### Back to valuation
-Returning to Metcalfe's law, we see that it's really just saying that the value of the network is predicated on the number of edges, or the _connections_ between users.
+Returning to Metcalfe's law, you see that it's really just saying that the value of the network is predicated on the number of edges, or the _connections_ between users.
 
 But there are other network valuation models, notably:
 
@@ -61,7 +61,7 @@ The appeal of quantum computing, of course, is that instead of 2^256 attempts I 
 
 But the point is that regardless of how you try to attack, it will cost you. Either you spend decades building a non-trivial amount of qubits, solve the error correction problem, and build quantum circuits for evaluating SHA-1 hashes, or you spend a lot of money on ASICs.
 
-We know that a minority of human beings will always try to cheat and steal, all we can do is make the behaviour costly.
+A minority of human beings will always try to cheat and steal, all you can do is make the behaviour costly.
 
 Mathematics is the best tool for the job, because we _know_ that computational complexity is universal. If quantum computers become a reality, we have lattice cryptography and bigger keys. But fundamentally at no point are we relying on trust or obscurity to protect us.
 
@@ -71,10 +71,11 @@ The Bitcoin protocol also incentivises good behaviour by issuing rewards for sec
 
 Therefore any valuation model has to look at _both_ the underlying protocol and the network, it can't look at them in isolation.
 
-What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too.
+What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too. You can't use Signal to maintain a consistent, distributed ledger.
 
 ##### Energy as currency
-At bottom, everything is about energy consumption. Dr. Chris Dark podcast...
+
+_Write here about how, at bottom, everything is about energy consumption, including gold. Dr. Chris Dark podcast..._
 
 ##### Money and "hard money"
 
@@ -82,7 +83,7 @@ The concept of "hardness" of money continues to baffle me. Here's a great exampl
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote>
 
-Let's go away, read The Deficit Myth, and rewrite that in MMT terms:
+Imagine you go away, read The Deficit Myth, and have a Damascus road moment. Let's rewrite that in MMT terms:
 
 > My theory of why **debt driven infrastructure spending** lowers time preference in a tweet: The **greater the debt driven infrastructure spending**, the more likely it is to **create** value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.
 
@@ -90,7 +91,7 @@ What part of that was dependent on "hard money"? Precisely nothing. That means t
 
 It should be obvious that discounting can _never_ explain the time-dependent properties of money because discounting itself is an attempt to fix the lack of time-dependent dynamics in traditional economics. In other words, without understanding ergodicity you can't hope to properly model this concept.
 
-But before we can talk about how hard (or soft?) money is, we need to agree on what money is first.
+But before you can talk about how hard (or soft?) money is, you need to agree on what money is first.
 
 ##### Handling debt
 
