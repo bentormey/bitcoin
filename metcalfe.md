@@ -92,35 +92,21 @@ It should be obvious that discounting can _never_ explain the time-dependent pro
 
 But before we can talk about how hard (or soft?) money is, we need to agree on what money is first.
 
-Mike Green very eloquently describes money as "that which extinguishes debt."
+##### Handling debt
 
-Briefly touch on losing Bitcoin
+Mike Green very eloquently describes money as _"that which extinguishes debt."_
 
-difference is knwong schedule in advance
+With that definition in mind, a structural defect is therefore the inability to create more Bitcoin when it is lost.
 
-Losing bitcoin
+Of course, historically we have lost plenty of gold too, indeed people still comb farmer's fields in England looking for Roman gold (and occasionally find it).
+
+But the difference is that Bitcoin has a fixed algorithmic schedule and gold is ad hoc, we know that it has to run out eventually but we don't know precisely when.
+
+_Write here on debt, value, relating back to MMT - personal debt is the key etc._
 
 ##### Intrinsic value
 
-Meaninglessness of instrinsic value philosophically
-
-
-##### Structural defects
+_Write here on meaninglessness of instrinsic value philosophically. Volatility and the lack of concensus on valuation, different things to different people, etc._
 
 ##### Putting it all together
 TBC
-
-Fundamental:
-Network structure
-Computational complexity
-Energy
-
-Layers:
-Markets
-Exchanges
-...
-
-Accessibility:
-On/offramps
-Legislation
-Adoption
