@@ -75,19 +75,11 @@ It can't _just_ be computational effort, because distributed computing networks 
 
 What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too. You can't use Signal to maintain a consistent, distributed ledger.
 
-##### Everything is energy
-
-Energy is difficult to store, when you generate it you need to _do_ something with it, like turning a light on, charging your Tesla, or powering a Bitcoin node.
-
-In the same way that gold represents energy expended in the form of discovery, extraction, and processing, Bitcoin represents energy converted to hashes.
-
-TBC
-
-_Dr. Chris Dark podcast reference..._
+What about Bitcoin as money?
 
 ##### Money: the good, the bad, and the "hard"
 
-The concept of "hardness" of money continues to baffle me. Here's a great example:
+I don't think Bitcoin is valuable because it's "hard money" and the concept of "hardness" of money continues to baffle me. Here's a great example:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote>
 
@@ -146,6 +138,18 @@ A discounted cash flow is an infinite series, but does anyone think Apple will e
 It's an abstraction that allows you to put a definite number to it, which you can use as a tool for comparison.
 
 Given that almost everyone disagrees on the valuation model for Bitcoin - or that it even has value - is it any surprise that it's volatile?
+
+##### Everything is energy
+
+Energy cannot be made or destroyed, ultimately everything we do from cooking food to building skyscrapers is just shuffling energy around.
+
+It's difficult to store energy, when you generate it you usually need to _do_ something with it, like turning a light on, charging your Tesla, or powering a Bitcoin node.
+
+In the same way that gold represents energy expended in the form of discovery, extraction, and processing, Bitcoin represents energy converted to hashes.
+
+_If Bitcoin is really digital gold, then it's also the vault you store it in and the armoured van you use to transport it._
+
+TBC
 
 ##### Putting it all together
 TBC
