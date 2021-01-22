@@ -71,6 +71,8 @@ The Bitcoin protocol also incentivises good behaviour by issuing rewards for sec
 
 Therefore any valuation model has to look at _both_ the underlying protocol and the network, it can't look at them in isolation.
 
+It can't _just_ be computational effort, because distributed computing networks solving protein folding would have the same kind of value.
+
 What's more, it can't _just_ be security and connectedness that make Bitcoin worth something, because Signal has both of those features. The decentralisation and proof-of-work are vital components too. You can't use Signal to maintain a consistent, distributed ledger.
 
 ##### Energy as currency
