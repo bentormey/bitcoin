@@ -72,5 +72,10 @@ Therefore any valuation model has to look at _both_ the underlying protocol and 
 ##### Energy as currency
 At bottom, everything is about energy consumption. Dr. Chris Dark podcast...
 
+##### Not Austrian economics
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ##### Putting it all together
 TBC
