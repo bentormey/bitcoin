@@ -79,7 +79,7 @@ _Write here about how, at bottom, everything is about energy consumption, includ
 
 ##### Money and "hard money"
 
-The concept of "hardness" of money continues to baffle me. Here's a great example"
+The concept of "hardness" of money continues to baffle me. Here's a great example:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My theory of why hard money lowers time preference in a tweet:<br><br>The harder the money, the more likely it is to hold value for the future. The more you can send value to the future, the less uncertain the future becomes, the less you discount the future.</p>&mdash; Saifedean.com (@saifedean) <a href="https://twitter.com/saifedean/status/1342913179098243073?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote>
 
@@ -97,7 +97,11 @@ But before you can talk about how hard (or soft?) money is, you need to agree on
 
 Mike Green very eloquently describes money as _"that which extinguishes debt."_
 
+To be precise, Mike characterises it as a state-sanctioned mechanism for extinguishing debt, backed by the force of the state.
+
 With that definition in mind, a structural defect is therefore the inability to create more Bitcoin when it is lost.
+
+If I owe you 1 Bitcoin and I lose access to my wallet (it can happen to anyone, even Peter Schiff), I can never recover that Bitcoin and now instead of twenty one million Bitcoin there are twenty million nine hundred ninety-nine thousand nine hundred ninety-nine Bitcoin.
 
 Of course, historically we have lost plenty of gold too, indeed people still comb farmer's fields in England looking for Roman gold (and occasionally find it).
 
