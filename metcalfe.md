@@ -97,8 +97,6 @@ But before you can talk about how hard (or soft?) money is, you need to agree on
 
 Mike Green very eloquently describes money as _"that which extinguishes debt."_
 
-To be precise, Mike characterises it as a state-sanctioned mechanism for extinguishing debt, backed by the force of the state.
-
 With that definition in mind, a structural defect is therefore the inability to create more Bitcoin when it is lost.
 
 If I owe you 1 Bitcoin and I lose access to my wallet (it can happen to anyone, even Peter Schiff), I can never recover that Bitcoin and now instead of twenty one million Bitcoin there are twenty million nine hundred ninety-nine thousand nine hundred ninety-nine Bitcoin.
@@ -106,6 +104,18 @@ If I owe you 1 Bitcoin and I lose access to my wallet (it can happen to anyone, 
 Of course, historically we have lost plenty of gold too, indeed people still comb farmer's fields in England looking for Roman gold (and occasionally find it).
 
 But the difference is that Bitcoin has a fixed algorithmic schedule and gold is ad hoc, we know that it has to run out eventually but we don't know precisely when.
+
+What matters here is individual debt, because government-issued debt is not 
+
+I think this criticism is one of the most perceptive, because it identifies why the "hard money" idealists like Bitcoin:
+
+- The emphasis on personal responsibility and prudence over forgiveness.
+- Scarcity and permanence that allow those who have "earned" wealth to keep it forever.
+- It fulfils the libertarian fantasy of opting out of a bloated, corrupt government system.
+
+None of those things are unique to Bitcoin, however, so any criticism could equally be applied to land. Land shares many of the same features: early adopters locked in incredible gains and there is highly concentrated ownership. That's why comparisons have been made between Bitcoin and feudalism. But it's hard to find an asset class that doesn't have those properties in some degree.
+
+Putting all of that aside, the practical point of how you deal with lost Bitcoin is an important one.
 
 _Write here on debt, value, relating back to MMT - personal debt is the key etc._
 
